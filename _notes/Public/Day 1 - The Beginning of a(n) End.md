@@ -1,3 +1,9 @@
+---
+title : Day 1 - The Beginning of a(n) End
+feed: show
+date : 15-04-3005
+---
+
 Welcome, travellers! 
 
 This is the first day (of many, hopefully!) of your wonderful adventure and the start of legends! At the moment, the calendar is looking pretty much empty, but this will soon change as you continue through the storyline and make decisions that may or may not be irreversible...much like real life. 
