@@ -1,5 +1,5 @@
 ---
-title : Day 1
+title: Day 1
 feed: show
 date : 15-04-3005
 ---
